@@ -1,3 +1,6 @@
+
+<img align="center" src="https://jeretiens.net/wp-content/uploads/2015/12/les_chiffres_romains.jpg" alt="malekabbes665" height="30" width="40" />
+
 # RomanToArabic
 Un simple algorithme en Javascript qui Traduit la conversion d'un nombre Roman vers un chiffre arabe :memo:
 
